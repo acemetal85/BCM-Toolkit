@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Rubik');
+body {
+    font-family: 'Rubik', sans-serif !important;
+}
+.col-3 {
+    border-right: 1px solid;
+    border-right-color: rgb(238, 238, 238);
+}
+h1 {
+    color: #1A237E;
+}
+.nav-link {
+    /* color: #0ca4d7;*/
+    color: #5C6BC0;
+}
+p {
+    color: #3F51B5;
+}
